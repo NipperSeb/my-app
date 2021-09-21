@@ -15,8 +15,8 @@ const GlobalStyle = createGlobalStyle`
   padding: 0;
   box-sizing: border-box;
 }
-html{
-  min-height:100%;
+body{
+  min-height:100vh;
 }
 div {
   font-family: 'Trebuchet MS, Helvetica, sans-serif;
