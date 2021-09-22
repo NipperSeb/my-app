@@ -5,7 +5,7 @@ import colors from '../../utils/style/colors'
 //////////////////////////////////////////////////////////////////////////////////////////////
 const CardsContainer = styled.div`
   display: grid;
-  gap: 1px;
+  gap: 2px;
   grid-template-rows: 350px 350px;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
