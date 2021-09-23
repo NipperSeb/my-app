@@ -3,7 +3,7 @@ import colors from '../../utils/style/colors'
 import DefaultPicture from '../../assets/404.svg'
 
 const ErrorWrapper = styled.div`
-  margin: 30px;
+  margin: 31px;
   display: flex;
   flex-direction: column;
   background-color: ${colors.background};
